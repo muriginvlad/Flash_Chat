@@ -9,8 +9,8 @@ Screenshots /  Скриншоты
 |<p align="center">Экран загрузки</p>|<p align="center">Главный эеран</p>|<p align="center">Экран регистрации</p>|
 
 
-| <img height="400" src="https://github.com/muriginvlad/Flash_Chat/raw/master/Screenshots/Screenshot4.png" /> |
-<img height="400" src="https://github.com/muriginvlad/Flash_Chat/raw/master/Screenshots/Screenshot5.png" /> |
+
+|<img height="400" src="https://github.com/muriginvlad/Flash_Chat/raw/master/Screenshots/Screenshot4.png" />|<img height="400" src="https://github.com/muriginvlad/Flash_Chat/raw/master/Screenshots/Screenshot5.png" />|
 |------------|------------|
 |<p align="center">Экран входа </p>|<p align="center">Экран переписки</p>|
 
